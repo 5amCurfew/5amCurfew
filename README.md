@@ -1,6 +1,5 @@
-- 👋  Hi, I’m [5am](https://5amcurfew.github.io/cv/)
-- :thought_balloon:  I’m interested in sports analytics, betting and general cool-stuffs
-- :computer:  I’m currently a Data Analyst at Signal-AI in London
+- 👋  Hi, I’m 5am
+- :thought_balloon:  I’m interested in analytics, betting and general cool-stuffs
 - 📫  You can contact me on [Twitter](https://twitter.com/5amCurfew)
 
 <!---
